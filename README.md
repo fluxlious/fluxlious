@@ -28,6 +28,10 @@ jersey of our student team in TU Dortmund's Campusliga. Live at
 Worker behind it handling checkout, payment webhooks and the spot reservations; payments are wired
 up but not switched on yet.
 
+**SoHike** — website for a social hiking community in Bursa, live at
+[so-hike.com](https://so-hike.com). Designed and built end to end, from a first prototype through
+revision rounds with the community's founder.
+
 **[meowmi2](https://github.com/fluxlious/meowmi2)** — browser game prototype in plain JavaScript,
 HTML and CSS.
 
